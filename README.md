@@ -50,9 +50,7 @@ I have hands-on experience in vulnerability assessment, penetration testing, and
 ---
 
 ## 📊 Education
-- SSC: GPA 4.61 – Doani High School
-- HSC: GPA 3.67 – Teesta Degree College
-- BSc: Final Semester (Running)
+- BSc in Cse: Final Semester (Running)
 
 ---
 
